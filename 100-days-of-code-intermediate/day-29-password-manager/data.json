@@ -1,0 +1,18 @@
+{
+    "Facebook": {
+        "email": "email",
+        "password": "1"
+    },
+    "Amazon": {
+        "email": "email",
+        "password": "2"
+    },
+    "Ebay": {
+        "email": "email",
+        "password": "3"
+    },
+    "UhOh": {
+        "email": "email",
+        "password": "Twitter"
+    }
+}
